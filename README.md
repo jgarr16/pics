@@ -1,3 +1,3 @@
 # pics
 
-This repo holds pictures that I want to link to in other places. 
+<img src="https://github.com/jgarr16/pics/raw/master/groups.png" width=“150" height=“55” /> 
